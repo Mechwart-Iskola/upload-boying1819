@@ -1,2 +1,2 @@
-név:
-osztály:
+név: Szabó Bence
+osztály: 9.f
